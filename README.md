@@ -2,7 +2,7 @@
 
 That is a simple Note app to training skills.
 
-### 👉 Link to Access: https://ignite-feed-739mtj8hk-fariapv.vercel.app/
+### 👉 Link to Access: https://note-app-sandy-pi.vercel.app
 
 ## ⚙ Config Section
 
