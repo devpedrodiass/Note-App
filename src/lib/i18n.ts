@@ -46,5 +46,5 @@ i18n.use(initReactI18next).init({
 			},
 		},
 	},
-	lng: 'pt',
+	lng: 'en',
 })
